@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: contactbackendcontainer
-      image: ashokit/contact_backend_app
+      image: nchavan13/contact_backup_app
       ports:
       - containerPort: 8080
 ---
